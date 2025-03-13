@@ -48,5 +48,4 @@ Flappy Bert is a fun and interactive game where you control a bird using your vo
 
 ## Customization
 
-- **Audio Sensitivity**: Adjust the sensitivity in the settings menu.
-- **Assets**: All images, sounds, and GIFs are located in the `allin` folder.
+- **Audio Sensitivity**: Adjust the sensitivity in the settings menu. (just click on the right top side of the game)
